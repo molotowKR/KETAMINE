@@ -1,14 +1,12 @@
 [![C++](https://img.shields.io/badge/language-C%2B%2B-%23f34b7d.svg?style=plastic)](https://en.wikipedia.org/wiki/C%2B%2B) 
 [![CS:GO](https://img.shields.io/badge/game-CS%3AGO-yellow.svg?style=plastic)](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/) 
-[![License](https://img.shields.io/github/license/danielkrupinski/Osiris.svg?style=plastic)](LICENSE)
-[![Issues](https://img.shields.io/github/issues/danielkrupinski/Osiris.svg?style=plastic)](https://github.com/danielkrupinski/Osiris/issues)
-<br>![Windows](https://github.com/danielkrupinski/Osiris/workflows/Windows/badge.svg?branch=master&event=push)
-![Linux](https://github.com/danielkrupinski/Osiris/workflows/Linux/badge.svg?branch=master&event=push)
 # KETAMINE  
 csgo cheat internal 
-thanks to caz for base (https://github.com/cazzwastaken)
-thanks to danielkrupinski for some features(https://github.com/danielkrupinski/Osiris)
+thanks to danielkrupinski for base (https://github.com/danielkrupinski/Osiris)
 i will be adding more to this cheat but this is a rush so i can get my firend to cheat in csgo (he dont want virus)
+all changes will be added to pull up requests for danielkrupinski cheat osiris 
+pls no sue
+pls no take down
 # features
 *   **Aimbot** - aim assistance
 *   **Triggerbot** - automatically fires when crosshair is on enemy
@@ -239,3 +237,5 @@ i will be adding more to this cheat but this is a rush so i can get my firend to
 </details>
 #requirements
 Microsoft Visual Studio 2019 16.10 (or newer), platform toolset v142 and Windows SDK 10.0.x.x are required in order to compile Osiris. If you don't have ones, you can download VS [here](https://visualstudio.microsoft.com/) (Windows SDK is installed during Visual Studio Setup).
+
+all credit goes to (https://github.com/danielkrupinski/Osiris)
